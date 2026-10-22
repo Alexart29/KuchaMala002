@@ -1,0 +1,4 @@
+# Prebuilt static site. No npm install or build is needed.
+[build]
+  command = ""
+  publish = "."

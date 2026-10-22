@@ -1,0 +1,167 @@
+[
+  {
+    "id": "babane",
+    "name": "БАБАНЕ",
+    "file": "babane.png",
+    "bounds": [
+      420,
+      317,
+      862,
+      992
+    ]
+  },
+  {
+    "id": "dede",
+    "name": "Деде",
+    "file": "dede.png",
+    "bounds": [
+      414,
+      226,
+      915,
+      1056
+    ]
+  },
+  {
+    "id": "sasha",
+    "name": "Саша",
+    "file": "sasha.png",
+    "bounds": [
+      449,
+      84,
+      838,
+      1171
+    ]
+  },
+  {
+    "id": "masha",
+    "name": "Маша",
+    "file": "masha.png",
+    "bounds": [
+      421,
+      87,
+      892,
+      1162
+    ]
+  },
+  {
+    "id": "kolya",
+    "name": "Коля",
+    "file": "kolya.png",
+    "bounds": [
+      472,
+      164,
+      854,
+      1090
+    ]
+  },
+  {
+    "id": "misha",
+    "name": "Миша",
+    "file": "misha.png",
+    "bounds": [
+      371,
+      188,
+      889,
+      1088
+    ]
+  },
+  {
+    "id": "lesha",
+    "name": "Лёша",
+    "file": "lesha.png",
+    "bounds": [
+      459,
+      224,
+      777,
+      1030
+    ]
+  },
+  {
+    "id": "tanya",
+    "name": "Таня",
+    "file": "tanya.png",
+    "bounds": [
+      494,
+      313,
+      749,
+      917
+    ]
+  },
+  {
+    "id": "ira",
+    "name": "Ира",
+    "file": "ira.png",
+    "bounds": [
+      465,
+      366,
+      815,
+      887
+    ]
+  },
+  {
+    "id": "tonya",
+    "name": "Тоня",
+    "file": "tonya.png",
+    "bounds": [
+      499,
+      317,
+      777,
+      931
+    ]
+  },
+  {
+    "id": "olya",
+    "name": "Бабушка Оля Белая",
+    "file": "olya.png",
+    "bounds": [
+      406,
+      253,
+      947,
+      1030
+    ]
+  },
+  {
+    "id": "antanes",
+    "name": "Антанас Петрович",
+    "file": "antanes.png",
+    "bounds": [
+      420,
+      112,
+      869,
+      1152
+    ]
+  },
+  {
+    "id": "nina",
+    "name": "Нина Михайловна",
+    "file": "nina.png",
+    "bounds": [
+      365,
+      191,
+      882,
+      1089
+    ]
+  },
+  {
+    "id": "katya",
+    "name": "Катя",
+    "file": "katya.png",
+    "bounds": [
+      375,
+      136,
+      936,
+      1132
+    ]
+  },
+  {
+    "id": "galya",
+    "name": "Галя",
+    "file": "galya.png",
+    "bounds": [
+      363,
+      94,
+      950,
+      1160
+    ]
+  }
+]

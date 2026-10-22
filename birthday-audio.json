@@ -1,0 +1,37 @@
+{
+  "pt": {
+    "file": "birthday_pt.mp4",
+    "duration": 30.442667,
+    "gain": 0.72443596007499,
+    "meanDb": -23.2,
+    "peakDb": 0.0
+  },
+  "kk": {
+    "file": "birthday_kk.mp4",
+    "duration": 24.384,
+    "gain": 0.3273406948788382,
+    "meanDb": -16.3,
+    "peakDb": 0.0
+  },
+  "ru": {
+    "file": "birthday_ru.mp4",
+    "duration": 9.109333,
+    "gain": 0.5754399373371568,
+    "meanDb": -21.2,
+    "peakDb": 0.0
+  },
+  "en": {
+    "file": "birthday_en.mp4",
+    "duration": 26.602667,
+    "gain": 0.7943282347242815,
+    "meanDb": -24.1,
+    "peakDb": 0.0
+  },
+  "tr": {
+    "file": "birthday_tr.mp4",
+    "duration": 16.192,
+    "gain": 0.6531305526474724,
+    "meanDb": -22.3,
+    "peakDb": 0.0
+  }
+}
